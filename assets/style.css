@@ -26,5 +26,5 @@ header .bg
 }
 header nav
 {
-	
+	display: flex;
 }
