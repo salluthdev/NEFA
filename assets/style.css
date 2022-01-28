@@ -9,3 +9,8 @@ body
 {
 	overflow-x: hidden;
 }
+header
+{
+	height: 100vh;
+	background: aqua;
+}
