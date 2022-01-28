@@ -11,7 +11,12 @@ body
 }
 header
 {
+	position: relative;
 	height: 100vh;
 	background: linear-gradient(169.4deg, #3984f4 -6.01%, #0cd3ff 36.87%, #2f7cf0 78.04%, #0e65e8 103.77%);
 	opacity: 0.04;
+}
+header .bg
+{
+	position: absolute;
 }
