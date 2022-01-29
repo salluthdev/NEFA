@@ -66,6 +66,7 @@ header nav .auth
 header nav .auth a
 {
 	font-weight: 500;
+	padding: 12px 24px;
 }
 header nav .auth a.log-in
 {
