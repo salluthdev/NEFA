@@ -70,4 +70,5 @@ header nav .auth a
 header nav .auth a.log-in
 {
 	color: #2779f3;
+	border: 1px solid #2779f3;
 }
