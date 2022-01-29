@@ -63,3 +63,7 @@ header nav .auth
 {
 	gap: 24px;
 }
+header nav .auth a.log-in
+{
+	color: #2779f3;
+}
