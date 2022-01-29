@@ -30,7 +30,11 @@ header nav
 	display: flex;
 	justify-content: space-between;
 }
-header nav div
+header nav .list, header nav .auth
 {
 	display: flex;
+}
+header nav .list
+{
+	gap: 60px;
 }
