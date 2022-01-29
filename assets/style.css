@@ -54,7 +54,8 @@ header nav .list p
 {
 	color: var(--black);
 }
-header nav p
+header nav .list p,
+header nav .auth a
 {
 	font-size: 14px;
 }
