@@ -87,26 +87,30 @@ header .content
 	justify-content: space-between;
 	align-items: center;
 }
-header .content img
+header .content .text
 {
-	width: 600px;
+	padding: 0 22px;
 }
-header .content h2
+header .content .text h2
 {
 	font-size: 20px;
 	font-weight: 600;
 	text-transform: uppercase;
 	color: var(--blue);
 }
-header .content h1
+header .content .text h1
 {
 	width: 480px;
 	font-size: 48px;
 	color: var(--black);
 }
-header .content h1 span
+header .content .text h1 span
 {
 	background: linear-gradient(169.4deg, #3984f4 -6.01%, #0cd3ff 36.87%, #2f7cf0 78.04%, #0e65e8 103.77%);
 	-webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+}
+header .content img
+{
+	width: 600px;
 }
