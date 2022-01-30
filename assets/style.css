@@ -91,3 +91,7 @@ header .content img
 {
 	width: 600px;
 }
+header .content h2
+{
+	color: var(--blue);
+}
