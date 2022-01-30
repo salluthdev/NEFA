@@ -44,7 +44,8 @@ header nav, header .content
 	justify-content: space-between;
 	align-items: center;
 }
-header nav div
+header nav div,
+header .content .text .button
 {
 	display: flex;
 }
@@ -115,10 +116,6 @@ header .content .text p
 	width: 520px;
 	line-height: 30px;
 	color: var(--grey);
-}
-header .content .text .button
-{
-	display: flex;
 }
 header .content img
 {
