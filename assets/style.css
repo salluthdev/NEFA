@@ -38,7 +38,7 @@ header .bg
 	max-width: 1400px;
 	margin: 0 auto;
 }
-header nav
+header nav, header .content
 {
 	display: flex;
 	justify-content: space-between;
@@ -81,12 +81,6 @@ header nav .auth a.sign-up
 {
 	background: linear-gradient(136.91deg, #468ef9 -12.5%, #0c66ee 107.5%);
 	color: #fff;
-}
-header .content
-{
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
 }
 header .content .text
 {
