@@ -98,3 +98,8 @@ header .content h2
 	text-transform: uppercase;
 	color: var(--blue);
 }
+header .content h1
+{
+	width: 480px;
+	font-size: 48px;
+}
