@@ -2,6 +2,7 @@
 :root
 {
 	--black: #222;
+	--blue: #2779f3;
 }
 *
 {
@@ -72,8 +73,8 @@ header nav .auth a
 }
 header nav .auth a.log-in
 {
-	color: #2779f3;
-	border: 1px solid #2779f3;
+	color: var(--blue);
+	border: 1px solid var(--blue);
 }
 header nav .auth a.sign-up
 {
