@@ -111,6 +111,10 @@ header .content .text h1 span
 	-webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+header .content .text p
+{
+	color: var(--grey);
+}
 header .content img
 {
 	width: 600px;
