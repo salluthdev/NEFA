@@ -57,11 +57,6 @@ header nav .list p
 {
 	color: var(--black);
 }
-header nav .list p,
-header nav .auth a
-{
-	font-size: 14px;
-}
 header nav .auth,
 header .content .text .button
 {
@@ -69,6 +64,7 @@ header .content .text .button
 }
 header a
 {
+	font-family: 'Poppins', sans-serif;
 	font-weight: 500;
 	text-decoration: unset;
 	border-radius: 28px;
