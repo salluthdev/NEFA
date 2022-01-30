@@ -93,5 +93,6 @@ header .content img
 }
 header .content h2
 {
+	text-transform: uppercase;
 	color: var(--blue);
 }
