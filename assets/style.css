@@ -102,4 +102,5 @@ header .content h1
 {
 	width: 480px;
 	font-size: 48px;
+	color: var(--black);
 }
