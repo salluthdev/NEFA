@@ -83,6 +83,7 @@ header nav .auth a.sign-up
 header .content
 {
 	display: flex;
+	justify-content: space-between;
 }
 header .content img
 {
