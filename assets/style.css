@@ -103,6 +103,7 @@ header .content .text h1
 {
 	width: 520px;
 	font-size: 60px;
+	line-height: 76px;
 	color: var(--black);
 }
 header .content .text h1 span
