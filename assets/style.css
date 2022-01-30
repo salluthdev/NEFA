@@ -21,11 +21,6 @@ header
 	height: 100vh;
 	padding: 24px 80px;
 }
-.wrapper
-{
-	max-width: 1400px;
-	margin: 0 auto;
-}
 header .bg
 {
 	position: absolute;
@@ -35,6 +30,12 @@ header .bg
 	height: 100%;
 	background: linear-gradient(169.4deg, #3984f4 -6.01%, #0cd3ff 36.87%, #2f7cf0 78.04%, #0e65e8 103.77%);
 	opacity: 0.04;
+}
+.wrapper
+{
+	position: relative;
+	max-width: 1400px;
+	margin: 0 auto;
 }
 header nav
 {
