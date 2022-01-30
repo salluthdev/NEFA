@@ -115,7 +115,7 @@ header .content .text p
 }
 header .content .text .button
 {
-	
+	display: flex;
 }
 header .content img
 {
