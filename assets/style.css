@@ -117,6 +117,10 @@ header .content .text p
 	line-height: 30px;
 	color: var(--grey);
 }
+header .content .text .button
+{
+	margin-top: 40px;
+}
 header .content img
 {
 	width: 640px;
