@@ -101,8 +101,8 @@ header .content .text h2
 }
 header .content .text h1
 {
-	width: 480px;
-	font-size: 48px;
+	width: 520px;
+	font-size: 60px;
 	color: var(--black);
 }
 header .content .text h1 span
