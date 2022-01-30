@@ -94,6 +94,7 @@ header .content img
 header .content h2
 {
 	font-size: 20px;
+	font-weight: 600;
 	text-transform: uppercase;
 	color: var(--blue);
 }
