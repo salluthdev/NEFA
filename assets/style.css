@@ -72,7 +72,8 @@ header a
 	border-radius: 28px;
 	padding: 12px 36px;
 }
-header nav .auth a.log-in
+header nav .auth a.log-in,
+header .content .text .button a.download-app
 {
 	color: var(--blue);
 	border: 1px solid var(--blue);
@@ -117,10 +118,6 @@ header .content .text p
 header .content .text .button
 {
 	display: flex;
-}
-header .content .text .button a.get-started
-{
-
 }
 header .content img
 {
