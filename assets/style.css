@@ -61,7 +61,8 @@ header nav .auth a
 {
 	font-size: 14px;
 }
-header nav .auth
+header nav .auth,
+header .content .text .button
 {
 	gap: 14px;
 }
